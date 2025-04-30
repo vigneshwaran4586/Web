@@ -1,10 +1,10 @@
 .bod{
-  color: aqua;
-  background-image: url(image/dark\ hacker.jpg);
+  color: black;
+  background-image: url(image/lone-tree.jpg);
 }
 .hacker
 {
-  border-color : gray;
+  border-color : violet;
   border-width: 5px;
   border-style: solid;
   margin-left: 10%;
@@ -12,18 +12,21 @@
   display: inline-block;
 }
 .hacker :hover{
-  color: white;
+  color: black;
   cursor: pointer;
 }
 .hacker2{
   display: inline-block;
-  border-color: gray;
+  border-color: violet;
   border-width: 5px;
   border-style: solid;
   margin-left: 30%;
   text-align: center;
 }
 .hacker2 :hover{
-  color: white;
+  color: black;
   cursor: pointer;
+}
+.course{
+  text-align: center;
 }
