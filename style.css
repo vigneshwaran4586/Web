@@ -1,10 +1,10 @@
 .bod{
-  color: black;
-  background-image: url(image/lone-tree.jpg);
+  color: white;
+  background-image: url(image/moon.jpg);
 }
 .hacker
 {
-  border-color : violet;
+  border-color : white;
   border-width: 5px;
   border-style: solid;
   margin-left: 10%;
@@ -12,21 +12,33 @@
   display: inline-block;
 }
 .hacker :hover{
-  color: black;
+  color: white;
   cursor: pointer;
 }
 .hacker2{
   display: inline-block;
-  border-color: violet;
+  border-color: white;
   border-width: 5px;
   border-style: solid;
   margin-left: 30%;
   text-align: center;
 }
 .hacker2 :hover{
-  color: black;
+  color: white;
   cursor: pointer;
 }
 .course{
+  text-align: center;
+}
+.domain{
+  text-align: center;
+}
+.cyber{
+  text-align: center;
+}
+.vedio{
+  text-align: center;
+}
+.best{
   text-align: center;
 }
