@@ -1,3 +1,41 @@
 .course{
+    color: white;
     background-image: url(image/moon.jpg);
+}
+.Coursera{
+    display: inline-block;
+    border: 10px;
+    border-color: aqua;
+    border-style: solid;
+}
+.Guvi{
+    display: inline-block;
+    border: 10px;
+    border-color: aqua;
+    border-style: solid;
+}
+.HP
+{
+    display: inline-block;
+    border: 10px;
+    border-color: aqua;
+    border-style: solid;
+}
+.linkedin{
+    display: inline-block;
+    border: 10px;
+    border-color: aqua;
+    border-style: solid;
+}
+.TCS{
+    display: inline-block;
+    border: 10px;
+    border-color: aqua;
+    border-style: solid;
+}
+.udemy{
+    display: inline-block;
+    border: 10px;
+    border-color: aqua;
+    border-style: solid;
 }
